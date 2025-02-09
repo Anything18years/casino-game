@@ -1,0 +1,22 @@
+﻿installation method:
+
+1. Install the plug-in program AfterCodecs v1.10.8 Installer.exe
+
+2. Copy the 4 files in the patch folder to the following directory:
+C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Autokroma AfterCodecs
+
+3. Then open the AfterCodecs.exe program, enter the following registration code, and then click Activate License to activate the plug-in:
+
+After Effects software registration:
+DSTAC*VFX*Download*855783350200725SUL8
+
+Premiere software registration:
+DSTACPP*VFX*Download*855783350200725SUL8
+
+Media Encoder software registration::
+DSTACME*VFX*Download*855783350200725SUL8
+
+————————————————
+
+
+please subscribe my youtube or follow me on tiktok: nuzxe
